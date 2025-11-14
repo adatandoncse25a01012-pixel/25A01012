@@ -1,0 +1,17 @@
+Hosting instructions (quick) — Ada Tandon (25A01012)
+
+Option A — GitHub Pages (recommended)
+1. Create a new GitHub repository named `25A01012` (or any name).
+2. Commit the folder contents (index.html, style.css, images/).
+3. In repository Settings > Pages, choose branch `main` and folder `/ (root)` then Save.
+4. After a minute, your site will be available at https://<your-github-username>.github.io/25A01012/
+
+Option B — Netlify / Vercel (drag and drop)
+1. Zip the folder and sign in to Netlify.
+2. Use 'Deploy site' by dragging the zip.
+3. Set a custom domain if you like.
+
+Notes:
+- The folder is named using the roll number inferred from your email: 25A01012
+- Edit the files to add real project links and screenshots before final submission.
+- Make sure to compress the folder itself (25A01012) into 25A01012.zip for submission.
